@@ -1,7 +1,7 @@
 # SBA-308A
 Here is a `README.md` file for the project:
 
-# API Interaction Example
+# API Interaction
 
 This project demonstrates how to interact with different APIs using JavaScript. It includes functions for making GET, POST, PUT, and PATCH requests and handles user interactions to fetch and display data from external APIs.
 
