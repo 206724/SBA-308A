@@ -3,7 +3,7 @@ Here is a `README.md` file for the project:
 
 # API Interaction Example
 
-This project demonstrates how to interact with different APIs using JavaScript. It includes functions for making GET, POST, PUT, and PATCH requests, and handles user interactions to fetch and display data from external APIs.
+This project demonstrates how to interact with different APIs using JavaScript. It includes functions for making GET, POST, PUT, and PATCH requests and handles user interactions to fetch and display data from external APIs.
 
 ## Project Structure
 
@@ -43,11 +43,11 @@ Ensure you have a modern browser that supports ES6 modules.
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/206724/SBA-308A.git)>
    ```
 2. Navigate to the project directory:
    ```sh
-   cd <project-directory>
+   cd <https://github.com/206724/SBA-308A.git)>
    ```
 3. Open `index.html` in your browser.
 
@@ -80,13 +80,11 @@ Ensure you have a modern browser that supports ES6 modules.
 
 ### Note
 
-Make sure to replace `<repository-url>` and `<project-directory>` with the actual repository URL and project directory name.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to modify and enhance this project as needed! If you have any questions or issues, please open an issue on the repository.
+
+
+
 
