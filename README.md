@@ -68,15 +68,46 @@ Ensure you have a modern browser that supports ES6 modules.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>API Interaction</title>
+    <title>API Interaction </title>
+    <link rel="stylesheet" href="./style.css">
+    <script type ="module" scr ="./apiModul.mjs"></script>
+    <script type="module" src="./main.mjs"></script>
+    <script type="module" src="./interaction.mjs"></script>
 </head>
 <body>
-    <h1>Dog Image</h1>
-    <img id="dog" src="" height="250" style="cursor: pointer;" />
-    <h1>Cat Breeds</h1>
-    <ul id="breedsList"></ul>
-    <button class="button">Get User Data</button>
-    <script type="module" src="main.js"></script>
+    <header>
+        <h1>API Interaction </h1>
+        <nav>
+            <ul>
+                <li><a href="#dog-section">Dog Image</a></li>
+                <li><a href="#cat-section">Cat Breeds</a></li>
+                <li><a href="#user-section">User Data</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="dog-section">
+            <h2>Random Dog Image</h2>
+            <img id="dog" src="" height="250" alt="Random Dog" />
+        </section>
+
+        <section id="cat-section">
+            <h2>Cat Breeds</h2>
+            <ul id="breedsList"></ul>
+        </section>
+
+        <section id="user-section">
+            <h2>Get User Data</h2>
+            <button class="button">Get User Data</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 API Interaction</p>
+    </footer>
+
+    
 </body>
 </html>
 ```
