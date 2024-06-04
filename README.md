@@ -39,7 +39,7 @@ This is the main module that demonstrates the usage of the functions from `apiMo
 ### `index`
 - **HTML (index.html)**: Sets up the structure of the landing page with sections for a dog image, cat breeds list, and user data button.
 
-###`CSS`  
+###`CSS.css`  
 -  Provides styling for the page, including layout, colors, and button styles.
 
 ## Usage
