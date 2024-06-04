@@ -9,10 +9,14 @@ This project demonstrates how to interact with different APIs using JavaScript. 
 
 ```
 .
-├── api.js
-├── interaction.js
-├── main.js
+├── css
+│   └── styles.css
+├── mjs
+│   ├── apiModule.mjs
+│   ├── interaction.mjs
+│   └── main.mjs
 └── index.html
+
 ```
 
 ### `apiModule.mjs`
@@ -32,7 +36,11 @@ This module handles user interactions and event listeners. It includes:
 This is the main module that demonstrates the usage of the functions from `apiModule.mjs` and `interaction.mjs`. It includes:
 - Example usage of `fetchData`, `createData`, `updateData`, and `modifyData`.
 - Setup of event listeners for fetching a new dog image and getting user data.
-### `index` 
+### `index`
+- **HTML (index.html)**: Sets up the structure of the landing page with sections for a dog image, cat breeds list, and user data button.
+
+###`CSS(style.css)`  
+-  Provides styling for the page, including layout, colors, and button styles.
 
 ## Usage
 
@@ -44,7 +52,7 @@ Ensure you have a modern browser that supports ES6 modules.
 
 1. Clone the repository:
    ```sh
-   git clone <https://github.com/206724/SBA-308A.git)>
+   git clone 'https://github.com/206724/SBA-308A.git'
    ```
 2. Navigate to the project directory:
    ```sh
@@ -72,6 +80,7 @@ Ensure you have a modern browser that supports ES6 modules.
 </body>
 </html>
 ```
+###CSS(style.css)
 
 ### Description
 
