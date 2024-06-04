@@ -48,7 +48,7 @@ Ensure you have a modern browser that supports ES6 modules.
    ```
 2. Navigate to the project directory:
    ```sh
-   cd <https://github.com/206724/SBA-308A.git)>
+   cd </d/Per Scholas C lass/JavaScript/JavaScript Code/Lesson 308A/Lesson 308A.4 - AJAX and Data Fetching/Project 308A>
    ```
 3. Open `index.html` in your browser.
 
