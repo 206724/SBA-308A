@@ -80,7 +80,7 @@ Ensure you have a modern browser that supports ES6 modules.
 </body>
 </html>
 ```
-###CSS(style.css)
+
 
 ### Description
 
